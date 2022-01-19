@@ -1,5 +1,3 @@
-Estoy intentando rotar una botón con una imagen en 360 grados cada vez que se clickee con un delay de 2.5 segundos de retraso en cada click, pero solo rota 1 vez y el retraso en milisegundos también cuenta en el primer click cuando quiero que cuente a partir del segundo.
-
 var millisecondsToWait = 2500;
 var firstClickRefresh = true;
 
